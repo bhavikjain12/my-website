@@ -1,0 +1,159 @@
+/*************************Tah************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  margin: 5px;
+}
+
+h2 {
+  font-family: 'Mansalva', cursive;
+  margin: 10px;
+}
+
+h3 {
+  font-family: 'Mansalva', cursive;
+}
+
+p {
+  margin: 1px;
+}
+
+div {
+  background-color: #fffde1;
+}
+
+/*************************Class************************/
+.Top-Container {
+  background-color: #fffde1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.Middle-Container {
+  background-color: #fb3569;
+}
+
+.Bottom-Container {
+  background-color: #fffde1;
+  padding-top: 30px;
+}
+
+.Bottom-Cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.Top-Cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.Middle-Cloud {
+  position: absolute;
+  left: 680px;
+  bottom: 260px;
+}
+
+.Tagline {
+  position: relative;
+  bottom: 10px;
+}
+
+.DP-Icon {
+  font-size: 5px;
+}
+
+.profile {
+  background-color: #fb3569;
+}
+
+.skills {
+  background-color: #51eaea;
+}
+
+.skill-row {
+  background-color: #51eaea;
+}
+
+.Hello {
+  color: #fffde1;
+  font-size: 60px;
+}
+
+.Hello-text {
+  color: #fffde1;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration-style: solid;
+  margin-bottom: 30px;
+}
+
+.skills {
+  padding-top: 30px;
+}
+
+.Skills-Heading {
+  color: black;
+  font-size: 60px;
+}
+
+.Skill-Liaising {
+  color: black;
+  font-size: 40px;
+  position: relative;
+  bottom: 350px;
+  right: 400px;
+}
+
+.Liaising-Picture {
+  position: relative;
+  left: 200px;
+}
+
+.Liaising-Icon {
+  position: relative;
+  left: 200px;
+  font-size: 5px;
+}
+
+.Skill-Office {
+  color: black;
+  font-size: 40px;
+  position: relative;
+  bottom: 350px;
+  right: 400px;
+}
+
+.office-Picture {
+  position: relative;
+  left: 200px;
+}
+
+.office-Icon {
+  position: relative;
+  left: 200px;
+  font-size: 5px;
+}
+
+.Get-In-Touch {
+  font-size: 40px;
+}
+
+.fotter-link {
+  size: 30px;
+}
+
+.Copyright {
+  position: relative;
+  left: 500px;
+}
